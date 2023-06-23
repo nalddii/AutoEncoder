@@ -1,2 +1,2 @@
 # AutoEncoder
-Build vanilla autoencoders using celeb dataset
+Build vanilla autoencoders using MNIST Dataset
